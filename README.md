@@ -16,8 +16,8 @@ Home ownership can be a way to build wealth through real estate and increase gen
 
 ### Algorithms
 ---
-_Linear Regression_
-_K-fold Cross Validation_
+* _Linear Regression_
+* _K-fold Cross Validation_
 
 ### Results
 50% of the variance in property tax value to sales price % was explained by the model within an Absolute Mean Error of 69.7%.
@@ -36,4 +36,4 @@ Features included in the final model with high impact were house sales price ran
 
 ### Communication
 ---
-A [slide presentation](INSERT LINK) was created.
+A [slide presentation](https://github.com/angarney/Regression_project/blob/main/philly_property_taxes_051421.pdf) was created.
