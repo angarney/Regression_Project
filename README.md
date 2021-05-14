@@ -20,6 +20,7 @@ Home ownership can be a way to build wealth through real estate and increase gen
 * _K-folds Cross Validation_
 
 ### Results
+---
 50% of the variance in property tax value to sales price % was explained by the model within an Absolute Mean Error of 69.7%.
 Features included in the final model with high impact were house sales price ranges and neighborhoods. 
 
