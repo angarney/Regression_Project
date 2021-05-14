@@ -8,16 +8,16 @@ Home ownership can be a way to build wealth through real estate and increase gen
 
 ### Data
 ---
-[Philadelphia Office of Property Assessment](https://www.opendataphilly.org/dataset/opa-property-assessments/resource/ca89fcd7-9fa4-4b9b-983d-e48e56eca17f?inner_span=True) - sales price, tax assessed value, home features
-[Walkscore.com](https://www.walkscore.com/) - zip code walkscores
-[Ziprealty.com](https://www.ziprealty.com/) - zip code highest grade school score
-[City-data.com](https://www.city-data.com/zipmaps/Philadelphia-Pennsylvania.html) - demographics, unemployment rates, land usage by zip code
-[Wikipedia](https://en.wikipedia.org/wiki/Wiki) - Philadelphia neighborhoods and correspond zip codes
+* [Philadelphia Office of Property Assessment](https://www.opendataphilly.org/dataset/opa-property-assessments/resource/ca89fcd7-9fa4-4b9b-983d-e48e56eca17f?inner_span=True) - sales price, tax assessed value, home features
+* [Walkscore.com](https://www.walkscore.com/) - zip code walkscores
+* [Ziprealty.com](https://www.ziprealty.com/) - zip code highest grade school score
+* [City-data.com](https://www.city-data.com/zipmaps/Philadelphia-Pennsylvania.html) - demographics, unemployment rates, land usage by zip code
+* [Wikipedia](https://en.wikipedia.org/wiki/Wiki) - Philadelphia neighborhoods and correspond zip codes
 
 ### Algorithms
 ---
-* _Linear Regression_
-* _K-fold Cross Validation_
+* _Linear Regression with feature engineering including a polynomial feature_
+* _K-folds Cross Validation_
 
 ### Results
 50% of the variance in property tax value to sales price % was explained by the model within an Absolute Mean Error of 69.7%.
