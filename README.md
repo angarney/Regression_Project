@@ -1,9 +1,5 @@
 # Regression_project
 
-Alexandra Garney
-
-### Abstract
----
 Home ownership can be a way to build wealth through real estate and increase generational wealth. Property taxes are not always fairly levied within communities. In 2013, Philadelphia, PA created the [Actual Value Initiaitive](https://www.pewtrusts.org/~/media/assets/2015/09/philadelphia-avi-update-brief.pdf) to overhaul property taxes and create assessed property values that more closely align with sales prices. Fair housing advocates have been skeptical of the plan's success. The goal of this project was to create a regression model to better understand/interpret any potential differences in residents of Philadelphia's assessed property values compared with the sales prices of their properties. 
 
 ### Data
